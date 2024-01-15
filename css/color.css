@@ -1,0 +1,25 @@
+body {
+    background-color: sandybrown;
+
+}
+h1{
+    color: rgb(14, 42, 56);
+}
+
+p{
+    color:#851414;
+
+}
+ #alpha{
+    color:hsla(107, 94%, 31%, 0.571);
+ }
+ #coolors{
+    font-size: 30px;
+
+ }
+ hr{
+    color: hsl(125, 80, 50);
+ }
+ #pp{
+    color: #851414;
+ }
