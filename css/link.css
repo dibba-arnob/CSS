@@ -13,7 +13,12 @@ a:visited {
     color: purple;
 
 }
-a:hover {
-    colo:skyblue;
 
+a:hover,a:focus {
+  /*   color:skyblue; */
+  color: hsl(207, 44%, 49%,70%);
+/* background-color: gold; */
+}
+a:active{
+    color: brown;
 }
